@@ -1,7 +1,7 @@
 # References 
 
 
-    Some stuff I :hearts: and always have to Google for.
+    Some stuff I :heart: and always have to Google for.
 
 
 - https://www.atlassian.com/agile/software-development
