@@ -12,3 +12,7 @@
 
 
 - https://slideplayer.com/slide/4747312/
+
+- https://blog.teclogica.com.br/utilizando-a-tecnica-de-pert-em-projetos/ 
+       
+
