@@ -13,6 +13,8 @@
 
 - https://slideplayer.com/slide/4747312/
 
-- https://blog.teclogica.com.br/utilizando-a-tecnica-de-pert-em-projetos/ 
+- https://blog.teclogica.com.br/utilizando-a-tecnica-de-pert-em-projetos/
+
+- https://trello.com/b/Fdd876S8/continuous-delivery-checklist-template
        
 
